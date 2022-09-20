@@ -9,7 +9,7 @@ Please console.log each question to check your work.
 1. Ronald McDonald wants to have all of his employees listed in alphabetical order. Please help this clown. 
 */
 const characters = ['Grimmace', 'Birdie', 'Mayor McCheese', 'Hamburglar', 'Officer Big Mac', 'The Professor', 'McNuggest Buddies'];
-
+console.log('test')
 
 /*unshift() adds one or more elements to the beginning of an array
 2. Big time Hollywood star Jason Bateman wants to be the first in line to get the new iPhone. Make this man's dreams come true.
